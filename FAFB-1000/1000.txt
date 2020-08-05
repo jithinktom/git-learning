@@ -1,0 +1,9 @@
+I have done something on the feature
+
+I added some more code
+
+I added some more.
+
+Bug fix
+
+Final commit
